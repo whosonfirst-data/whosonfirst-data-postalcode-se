@@ -1,0 +1,50 @@
+{
+  "id": 421494751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"SE",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191581,
+        101816817,
+        85633789,
+        85688395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12887677"
+    },
+    "wof:country":"SE",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633789,
+            "locality_id":101816817,
+            "postalcode_id":421494751,
+            "region_id":85688395
+        }
+    ],
+    "wof:id":421494751,
+    "wof:lastmodified":1459820289,
+    "wof:name":"61734",
+    "wof:parent_id":"101816817",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
